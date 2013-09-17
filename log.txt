@@ -1,0 +1,565 @@
+age
+count    199523.000000
+mean         34.494199
+std          22.310895
+min           0.000000
+25%          15.000000
+50%          33.000000
+75%          50.000000
+max          90.000000
+dtype: float64
+
+
+
+class of worker
+count               199523
+unique                   9
+top        Not in universe
+freq                100245
+dtype: object
+
+
+
+detailed industry recode
+count    199523.000000
+mean         15.352320
+std          18.067129
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%          33.000000
+max          51.000000
+dtype: float64
+
+
+
+detailed occupation recode
+count    199523.000000
+mean         11.306556
+std          14.454204
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%          26.000000
+max          46.000000
+dtype: float64
+
+
+
+education
+count                    199523
+unique                       17
+top        High school graduate
+freq                      48407
+dtype: object
+
+
+
+wage per hour
+count    199523.000000
+mean         55.426908
+std         274.896454
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max        9999.000000
+dtype: float64
+
+
+
+enroll in edu inst last wk
+count               199523
+unique                   3
+top        Not in universe
+freq                186943
+dtype: object
+
+
+
+marital stat
+count             199523
+unique                 7
+top        Never married
+freq               86485
+dtype: object
+
+
+
+major industry code
+count                           199523
+unique                              24
+top        Not in universe or children
+freq                            100684
+dtype: object
+
+
+
+major occupation code
+count               199523
+unique                  15
+top        Not in universe
+freq                100684
+dtype: object
+
+
+
+race
+count     199523
+unique         5
+top        White
+freq      167365
+dtype: object
+
+
+
+hispanic origin
+count         199523
+unique            10
+top        All other
+freq          171907
+dtype: object
+
+
+
+sex
+count      199523
+unique          2
+top        Female
+freq       103984
+dtype: object
+
+
+
+member of a labor union
+count               199523
+unique                   3
+top        Not in universe
+freq                180459
+dtype: object
+
+
+
+reason for unemployment
+count               199523
+unique                   6
+top        Not in universe
+freq                193453
+dtype: object
+
+
+
+full or part time employment stat
+count                        199523
+unique                            8
+top        Children or Armed Forces
+freq                         123769
+dtype: object
+
+
+
+capital gains
+count    199523.00000
+mean        434.71899
+std        4697.53128
+min           0.00000
+25%           0.00000
+50%           0.00000
+75%           0.00000
+max       99999.00000
+dtype: float64
+
+
+
+capital losses
+count    199523.000000
+mean         37.313788
+std         271.896428
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max        4608.000000
+dtype: float64
+
+
+
+dividends from stocks
+count    199523.000000
+mean        197.529533
+std        1984.163658
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max       99999.000000
+dtype: float64
+
+
+
+tax filer stat
+count        199523
+unique            6
+top        Nonfiler
+freq          75094
+dtype: object
+
+
+
+region of previous residence
+count               199523
+unique                   6
+top        Not in universe
+freq                183750
+dtype: object
+
+
+
+state of previous residence
+count               199523
+unique                  51
+top        Not in universe
+freq                183750
+dtype: object
+
+
+
+detailed household and family stat
+count           199523
+unique              38
+top        Householder
+freq             53248
+dtype: object
+
+
+
+detailed household summary in household
+count           199523
+unique               8
+top        Householder
+freq             75475
+dtype: object
+
+
+
+instance weight
+count    199523.000000
+mean       1740.380269
+std         993.768156
+min          37.870000
+25%        1061.615000
+50%        1618.310000
+75%        2188.610000
+max       18656.300000
+dtype: float64
+
+
+
+migration code-change in msa
+count     199523
+unique        10
+top            ?
+freq       99696
+dtype: object
+
+
+
+migration code-change in reg
+count     199523
+unique         9
+top            ?
+freq       99696
+dtype: object
+
+
+
+migration code-move within reg
+count     199523
+unique        10
+top            ?
+freq       99696
+dtype: object
+
+
+
+live in this house 1 year ago
+count                                199523
+unique                                    3
+top        Not in universe under 1 year old
+freq                                 101212
+dtype: object
+
+
+
+migration prev res in sunbelt
+count     199523
+unique         4
+top            ?
+freq       99696
+dtype: object
+
+
+
+num persons worked for employer
+count    199523.000000
+mean          1.956180
+std           2.365126
+min           0.000000
+25%           0.000000
+50%           1.000000
+75%           4.000000
+max           6.000000
+dtype: float64
+
+
+
+family members under 18
+count               199523
+unique                   5
+top        Not in universe
+freq                144232
+dtype: object
+
+
+
+country of birth father
+count             199523
+unique                43
+top        United-States
+freq              159163
+dtype: object
+
+
+
+country of birth mother
+count             199523
+unique                43
+top        United-States
+freq              160479
+dtype: object
+
+
+
+country of birth self
+count             199523
+unique                43
+top        United-States
+freq              176989
+dtype: object
+
+
+
+citizenship
+count                                 199523
+unique                                     5
+top        Native- Born in the United States
+freq                                  176992
+dtype: object
+
+
+
+own business or self employed
+count    199523.000000
+mean          0.175438
+std           0.553694
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           0.000000
+max           2.000000
+dtype: float64
+
+
+
+fill inc questionnaire for veteran's admin
+count               199523
+unique                   3
+top        Not in universe
+freq                197539
+dtype: object
+
+
+
+veterans benefits
+count    199523.000000
+mean          1.514833
+std           0.851473
+min           0.000000
+25%           2.000000
+50%           2.000000
+75%           2.000000
+max           2.000000
+dtype: float64
+
+
+
+weeks worked in year
+count    199523.000000
+mean         23.174897
+std          24.411488
+min           0.000000
+25%           0.000000
+50%           8.000000
+75%          52.000000
+max          52.000000
+dtype: float64
+
+
+
+year
+count    199523.000000
+mean         94.499672
+std           0.500001
+min          94.000000
+25%          94.000000
+50%          94.000000
+75%          95.000000
+max          95.000000
+dtype: float64
+
+
+
+class
+count        199523
+unique            2
+top        - 50000.
+freq         187141
+dtype: object
+
+
+
+country of birth father                  3.36%
+country of birth mother                  3.07%
+country of birth self                    1.70%
+migration code-change in msa             49.97%
+migration code-change in reg             49.97%
+migration code-move within reg           49.97%
+migration prev res in sunbelt            49.97%
+state of previous residence              0.35%
+Number of records with missing values: 104393 (52.32% of total).
+Typical citizen over 50k$
+		age                                                45.0
+		class of worker                                    Private
+		detailed industry recode                           33.0
+		detailed occupation recode                         8.0
+		education                                          Bachelors degree(BA AB BS)
+		wage per hour                                      0.0
+		enroll in edu inst last wk                         Not in universe
+		marital stat                                       Married-civilian spouse present
+		major industry code                                Manufacturing-durable goods
+		major occupation code                              Executive admin and managerial
+		race                                               White
+		hispanic origin                                    All other
+		sex                                                Male
+		member of a labor union                            Not in universe
+		reason for unemployment                            Not in universe
+		full or part time employment stat                  Children or Armed Forces
+		capital gains                                      0.0
+		capital losses                                     0.0
+		dividends from stocks                              0.0
+		tax filer stat                                     Joint both under 65
+		region of previous residence                       Not in universe
+		state of previous residence                        Not in universe
+		detailed household and family stat                 Householder
+		detailed household summary in household            Householder
+		instance weight                                    1684.1
+		migration code-change in msa                       ?
+		migration code-change in reg                       ?
+		migration code-move within reg                     ?
+		live in this house 1 year ago                      Not in universe under 1 year old
+		migration prev res in sunbelt                      ?
+		num persons worked for employer                    4.0
+		family members under 18                            Not in universe
+		country of birth father                            United-States
+		country of birth mother                            United-States
+		country of birth self                              United-States
+		citizenship                                        Native- Born in the United States
+		own business or self employed                      0.0
+		fill inc questionnaire for veteran's admin         Not in universe
+		veterans benefits                                  2.0
+		weeks worked in year                               52.0
+		year                                               95.0
+		class                                              50000+.
+
+
+Typical citizen below 50k$
+		age                                                31.0
+		class of worker                                    Not in universe
+		detailed industry recode                           0.0
+		detailed occupation recode                         0.0
+		education                                          Children
+		wage per hour                                      0.0
+		enroll in edu inst last wk                         Not in universe
+		marital stat                                       Never married
+		major industry code                                Not in universe or children
+		major occupation code                              Not in universe
+		race                                               White
+		hispanic origin                                    All other
+		sex                                                Female
+		member of a labor union                            Not in universe
+		reason for unemployment                            Not in universe
+		full or part time employment stat                  Children or Armed Forces
+		capital gains                                      0.0
+		capital losses                                     0.0
+		dividends from stocks                              0.0
+		tax filer stat                                     Nonfiler
+		region of previous residence                       Not in universe
+		state of previous residence                        Not in universe
+		detailed household and family stat                 Child <18 never marr not in subfamily
+		detailed household summary in household            Householder
+		instance weight                                    1612.93
+		migration code-change in msa                       ?
+		migration code-change in reg                       ?
+		migration code-move within reg                     ?
+		live in this house 1 year ago                      Not in universe under 1 year old
+		migration prev res in sunbelt                      ?
+		num persons worked for employer                    0.0
+		family members under 18                            Not in universe
+		country of birth father                            United-States
+		country of birth mother                            United-States
+		country of birth self                              United-States
+		citizenship                                        Native- Born in the United States
+		own business or self employed                      0.0
+		fill inc questionnaire for veteran's admin         Not in universe
+		veterans benefits                                  2.0
+		weeks worked in year                               0.0
+		year                                               94.0
+		class                                              - 50000.
+
+
+Notable differences                                         Over                                              Below
+		age                                                45.0                                    		31.0
+		class of worker                                    Private                                 		Not in universe
+		detailed industry recode                           33.0                                    		0.0
+		detailed occupation recode                         8.0                                     		0.0
+		education                                          Bachelors degree(BA AB BS)              		Children
+		marital stat                                       Married-civilian spouse present         		Never married
+		major industry code                                Manufacturing-durable goods             		Not in universe or children
+		major occupation code                              Executive admin and managerial          		Not in universe
+		sex                                                Male                                    		Female
+		tax filer stat                                     Joint both under 65                     		Nonfiler
+		detailed household and family stat                 Householder                             		Child <18 never marr not in subfamily
+		instance weight                                    1684.1                                  		1612.93
+		num persons worked for employer                    4.0                                     		0.0
+		weeks worked in year                               52.0                                    		0.0
+		year                                               95.0                                    		94.0
+		class                                              50000+.                                 		- 50000.
+weeks worked in year                                         0.262316136132
+major occupation code_ Executive admin and managerial        0.24158429802
+capital gains                                                0.240724819716
+num persons worked for employer                              0.222684028201
+major industry code_ Not in universe or children             -0.221969231463
+major occupation code_ Not in universe                       -0.221969231463
+class of worker_ Not in universe                             -0.220913520224
+detailed household summary in household_ Householder         0.212777563852
+major occupation code_ Professional specialty                0.212685738419
+tax filer stat_ Joint both under 65                          0.20519309151
+             precision    recall  f1-score   support
+
+       -1.0       0.99      0.81      0.89     93576
+        1.0       0.23      0.89      0.37      6186
+
+avg / total       0.94      0.81      0.86     99762
+
+[[75402 18174]
+ [  682  5504]]
