@@ -1,6 +1,6 @@
 import pandas as pd
 
-data_dir = r'C:\Documents and Settings\Clement\Desktop\Dropbox\personal\exercice_dataiku\us_census_full'
+data_dir = r''
 
 # Get labels
 import os
